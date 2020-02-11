@@ -1,7 +1,0 @@
-Create a "5C-Twitter Bot"using the Twitter API that sends out useful tweets about living in claremont.
-Do backend things in Python and/or Node.js
-  Ideas:
-  * Send out Daily Weather/Traffic Updates for Claremont/Mt Baldy/Beach/J-Tree / Financial index news
-  * Scrape data from 5C menu sites / Give meal recommendations
-  * Have interactive component / replies to tweets
-  * Send Responses to Questions, maybe about Open/Close times
