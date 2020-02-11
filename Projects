@@ -7,4 +7,11 @@ Do backend things in Python and/or Node.js
   * Send Responses to Questions, maybe about Open/Close times
 
 
-Project 2:
+Project 2:  We were thinking of making an app that allows the user get a reservation for a restaurant and look at the menu. 
+Once they are seated they can order and pay. The app would work by using existing software that can 
+find the user's location and look for restaurants close by. Once the user has found the restaurant, 
+they can order the food and quantity and the restaurant will be notified of the order. The goal is to make an application
+that will allow for a quick dine-in expeience.
+
+Project 3:
+
